@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/ok/StudioProjects/Test Folder/KOM_DroidArLib/DroidAR/src/main/assets"/><source path="/home/ok/StudioProjects/Test Folder/KOM_DroidArLib/DroidAR/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/ok/StudioProjects/Test Folder/KOM_DroidArLib/DroidAR/src/release/assets"/></dataSet></merger>
