@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ok/StudioProjects/Test Folder/KOM_DroidArLib/droidAR/build/intermediates/res/merged/androidTest/debug/raw/camaro_obj",
+        "source": "/home/ok/StudioProjects/Test Folder/KOM_DroidArLib/droidAR/build/intermediates/bundles/debug/res/raw/camaro_obj"
+    },
+    {
+        "merged": "/home/ok/StudioProjects/Test Folder/KOM_DroidArLib/droidAR/build/intermediates/res/merged/androidTest/debug/raw/camaro_mtl",
+        "source": "/home/ok/StudioProjects/Test Folder/KOM_DroidArLib/droidAR/build/intermediates/bundles/debug/res/raw/camaro_mtl"
+    }
+]
