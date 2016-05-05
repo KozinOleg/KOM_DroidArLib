@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DroidAR/droidAR.iml" filepath="$PROJECT_DIR$/DroidAR/droidAR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DroidAR/DroidAR.iml" filepath="$PROJECT_DIR$/DroidAR/DroidAR.iml" />
       <module fileurl="file://$PROJECT_DIR$/KOM_DroidArLib.iml" filepath="$PROJECT_DIR$/KOM_DroidArLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DroidAR/droidAR.iml" filepath="$PROJECT_DIR$/DroidAR/droidAR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadergdx/loadergdx.iml" filepath="$PROJECT_DIR$/loadergdx/loadergdx.iml" />
     </modules>
   </component>
 </project>
